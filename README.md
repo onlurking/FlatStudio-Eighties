@@ -10,15 +10,16 @@ Just clone the repo, drop the folder on /usr/share/themes and use a program to c
 Some applications doesn't work quite well with dark gtk themes(Firefox, Thunderbird, Liferea, Monodevelop to name a few) so it's highly recommended to override your current GTK theme and make the application load another gtk theme, if you use XFCE you can modify the launchers through menulibre like this(or mannualy edit the launchers at ~/.local/share/applications/):
 
 ### GTK3 Applications:
-''' shell
+```shell
 zsh -c "GTK_THEME=/usr/share/themes/Numix-Flatstudio/gtk-3.0/gtk.css firefox %u"
+
 zsh -c "GTK_THEME=/usr/share/themes/Numix-Flatstudio/gtk-3.0/gtk.css thunderbird %u"
-'''
+```
 
 ### GTK2 Applications:
-''' shell
+```shell
 zsh -c "GTK2_RC_FILES=/usr/share/themes/Numix/gtk-2.0/gtkrc libreoffice5.0"
-'''
+```
 
 If you use bash, just change "zsh -c" to "bash -c".
 
