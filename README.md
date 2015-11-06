@@ -28,12 +28,12 @@ If you use bash, just change "zsh -c" to "bash -c".
 ## Attribution
 
 ### FlatStudio
-Author: Rafa Cobreros
-License: GPL
-http://gnome-look.org/content/show.php/FlatStudio?content=154296
+Author: Rafa Cobreros<br>
+License: GPL<br>
+http://gnome-look.org/content/show.php/FlatStudio?content=154296<br>
 
 ### Base16 and Tomorrow Theme
-Author: Chris Kempson
-License: MIT
-https://github.com/chriskempson/base16
-https://github.com/chriskempson/tomorrow-theme
+Author: Chris Kempson<br>
+License: MIT<br>
+https://github.com/chriskempson/base16<br>
+https://github.com/chriskempson/tomorrow-theme<br>
